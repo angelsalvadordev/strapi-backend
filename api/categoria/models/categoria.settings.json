@@ -1,0 +1,17 @@
+{
+  "kind": "collectionType",
+  "connection": "default",
+  "collectionName": "categorias",
+  "info": {
+    "name": "categoria"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "nombre": {
+      "type": "string"
+    }
+  }
+}

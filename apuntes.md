@@ -1,0 +1,1 @@
+- Para solucionar el arranque de strapi, revisar el codigo dentro de las llaves de option, en el archivo config/environments/ development/database.json
